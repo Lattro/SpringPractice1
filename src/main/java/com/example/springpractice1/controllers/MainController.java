@@ -12,7 +12,7 @@ public class MainController
     public String getMainPage()
     {return "about_us";}
 }
-//
+
 //@Controller
 //@RequestMapping("/")
 //public class MainController
